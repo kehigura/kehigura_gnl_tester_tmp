@@ -1,0 +1,5 @@
+42 Tokyo
+get_next_line
+
+1234567890
+最後の行
